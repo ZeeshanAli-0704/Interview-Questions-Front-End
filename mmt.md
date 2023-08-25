@@ -4,6 +4,9 @@
 - Latest React version and updates
 - React hooks and examples
 - Angular vs React which one to choose?
+- PWA
+- Service Workers ? Usage
+- Creating new PWA project what all i will need to do?
 
 ## Browser
 - What is CORS?
