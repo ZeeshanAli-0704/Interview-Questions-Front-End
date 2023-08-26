@@ -19,6 +19,7 @@
 - What if we manipulate cookies and change the domain name?
 - Chrome Browser Latest feature 
 - when we click on link & open new instance of chrome can we transfer current session info to new window? (Latest chrome feature)
+- What is credentials's true or credential include means?
 
 ## Javascript
 - Hoisting behavior
